@@ -11,20 +11,13 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            As a highly motivated and organized individual with excellent communication and interpersonal skills. I have the ability to work in both team and individual settings, and I am always looking for new challenges and opportunities to develop my skills.
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
-            </a>
-            <a
               href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
+              className="ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              See My Past/Current Work
             </a>
           </div>
         </div>
@@ -32,7 +25,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./images/Me.jpg"
           />
         </div>
       </div>
